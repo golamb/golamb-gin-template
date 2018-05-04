@@ -1,5 +1,11 @@
 # Go Lambda Gin Template for GoLambda
 
+## Init project
+
+```sh
+golamb init gin my-project
+```
+
 ## Require
 
 * [dep](https://github.com/golang/dep)
